@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2024.17.1</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>20 ms</sequenceTiming>
+    <sequenceType>Media</sequenceType>
+    <mediaFile>/home/aden/GitHub/Tesla-Light-Shows/FirstShow.mp3</mediaFile>
+    <sequenceDuration>96.026</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_COLOURPICKERCTRL_SparklesColour=#373737</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect></Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="24" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View,Old View,Group View,Multishow Import View" active="1"/>
+    <Element collapsed="0" type="model" name="Offroad Light Bar" visible="1"/>
+    <Element collapsed="0" type="model" name="Front Light Bar" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Channel 6" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Channel 5" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Channel 4" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Signatures" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Inner Main Beams" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Outer Main Beams" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Turns (Front)" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Side Markers" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Aux Park" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Fogs (Front)" visible="1"/>
+    <Element collapsed="0" type="model" name="Rear Light Bar" visible="1"/>
+    <Element collapsed="0" type="model" name="Brake Lights" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Tail Lights" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Turns (Rear)" visible="1"/>
+    <Element collapsed="0" type="model" name="Reverse Lights" visible="1"/>
+    <Element collapsed="0" type="model" name="Rear Fog Lights" visible="1"/>
+    <Element collapsed="0" type="model" name="License Plate" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Side Repeaters" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Doors (Front)" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Falcon Doors" visible="1"/>
+    <Element collapsed="0" type="model" name="Liftgate" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Mirrors" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Windows (Front)" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Windows (Rear)" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Door Handles (Front)" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Door Handles (Rear)" visible="1"/>
+    <Element collapsed="0" type="model" name="Charge Port" visible="1"/>
+    <Element collapsed="0" type="model" name="LR Front Light Bar" visible="1"/>
+    <Element collapsed="0" type="model" name="LR Rear Light Bar" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Offroad Light Bar">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Front Light Bar">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GRP Channel 6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GRP Channel 5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GRP Channel 4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GRP Signatures">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GRP Inner Main Beams">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GRP Outer Main Beams">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GRP Turns (Front)">
+      <EffectLayer>
+        <Effect ref="0" name="On" selected="1" startTime="9120" endTime="10120" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="GRP Side Markers">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GRP Aux Park">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GRP Fogs (Front)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Rear Light Bar">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Brake Lights">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GRP Tail Lights">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GRP Turns (Rear)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Reverse Lights">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Rear Fog Lights">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="License Plate">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GRP Side Repeaters">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GRP Doors (Front)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GRP Falcon Doors">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Liftgate">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GRP Mirrors">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GRP Windows (Front)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GRP Windows (Rear)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GRP Door Handles (Front)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GRP Door Handles (Rear)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Charge Port">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LR Front Light Bar">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LR Rear Light Bar">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>2</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>

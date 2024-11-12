@@ -246,10 +246,10 @@
     </model>
   </models>
   <view_objects>
-    <view_object DisplayAs="Image" LayoutGroup="Default" name="Gridlines (2)" Image="/home/aden/GitHub/Tesla-Light-Shows/Cybertruck/driver.jpg" WorldPosX="74.3640" WorldPosY="242.5311" WorldPosZ="-1009.9794" ScaleX="0.2000" ScaleY="0.2000" ScaleZ="0.2000" RotateX="0.00000000" RotateY="90.00000000" RotateZ="0.00000000" Locked="1" versionNumber="7"/>
-    <view_object DisplayAs="Mesh" LayoutGroup="Default" name="Cybertruck" Brightness="100" ObjFile="/home/aden/GitHub/Tesla-Light-Shows/Cybertruck/Cybertruck.obj" WorldPosX="0.0000" WorldPosY="0.0000" WorldPosZ="-1000.0000" ScaleX="2.0000" ScaleY="2.0000" ScaleZ="2.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="7"/>
+    <view_object DisplayAs="Image" LayoutGroup="Default" name="Gridlines (2)" Image="C:\Users\Vincent\Tesla\xlights configs\tesla_xlights_show_folder\Cybertruck\driver.jpg" WorldPosX="74.3640" WorldPosY="242.5311" WorldPosZ="-1009.9794" ScaleX="0.2000" ScaleY="0.2000" ScaleZ="0.2000" RotateX="0.00000000" RotateY="90.00000000" RotateZ="0.00000000" Locked="1" versionNumber="7"/>
+    <view_object DisplayAs="Mesh" LayoutGroup="Default" name="Cybertruck" Brightness="100" ObjFile="C:\Users\Vincent\Tesla\xlights configs\tesla_xlights_show_folder\Cybertruck\Cybertruck.obj" WorldPosX="0.0000" WorldPosY="0.0000" WorldPosZ="-1000.0000" ScaleX="2.0000" ScaleY="2.0000" ScaleZ="2.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="7"/>
     <view_object DisplayAs="Gridlines" LayoutGroup="Default" name="Gridlines" GridLineSpacing="50" Active="1" GridWidth="2000" GridHeight="2000" WorldPosX="0.0000" WorldPosY="0.0000" WorldPosZ="-500.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" RotateX="-90.00000000" RotateY="-0.00000000" RotateZ="0.00000000" Locked="1" versionNumber="7"/>
-    <view_object DisplayAs="Mesh" LayoutGroup="Default" name="Tesla Model S" Active="1" ObjFile="/home/aden/GitHub/Tesla-Light-Shows/Model_S/ModelS.obj" WorldPosX="0.0000" WorldPosY="0.0000" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" Locked="1" versionNumber="7"/>
+    <view_object DisplayAs="Mesh" LayoutGroup="Default" name="Tesla Model S" Active="1" ObjFile="C:\Users\Vincent\Tesla\xlights configs\tesla_xlights_show_folder\Model_S\ModelS.obj" WorldPosX="0.0000" WorldPosY="0.0000" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" Locked="1" versionNumber="7"/>
   </view_objects>
   <effects version="0007">
     <effectGroup name="legacy">
@@ -353,10 +353,10 @@
     <scaleImage value="0"/>
     <defaultSeqView value=""/>
     <storedLayoutGroup value="Default"/>
+    <fseqDir value="C:\Users\Vincent\Tesla\xlights configs\tesla_xlights_show_folder"/>
+    <renderCacheDir value="C:\Users\Vincent\Tesla\xlights configs\tesla_xlights_show_folder"/>
     <previewWidth value="1280"/>
     <previewHeight value="720"/>
-    <fseqDir value="/home/aden/GitHub/Tesla-Light-Shows"/>
-    <renderCacheDir value="/home/aden/GitHub/Tesla-Light-Shows"/>
   </settings>
   <colors>
     <DisabledEffect Red="200" Green="200" Blue="0"/>
