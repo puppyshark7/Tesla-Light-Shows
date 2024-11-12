@@ -14,17 +14,14 @@
     <sequenceType>Media</sequenceType>
     <mediaFile>/home/aden/GitHub/Tesla-Light-Shows/FirstShow.mp3</mediaFile>
     <sequenceDuration>96.026</sequenceDuration>
-    <imageDir/>
+    <imageDir></imageDir>
   </head>
   <nextid>1</nextid>
-  <Jukebox/>
   <ColorPalettes>
     <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_COLOURPICKERCTRL_SparklesColour=#373737</ColorPalette>
-    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1</ColorPalette>
   </ColorPalettes>
   <EffectDB>
     <Effect></Effect>
-    <Effect>T_CHECKBOX_Canvas=1</Effect>
   </EffectDB>
   <DataLayers>
     <DataLayer lor_params="24" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
@@ -62,7 +59,6 @@
     <Element collapsed="0" type="model" name="Charge Port" visible="1"/>
     <Element collapsed="0" type="model" name="LR Front Light Bar" visible="1"/>
     <Element collapsed="0" type="model" name="LR Rear Light Bar" visible="1"/>
-    <Element collapsed="0" type="model" name="GRP Tesla Model S" visible="1"/>
   </DisplayElements>
   <ElementEffects>
     <Element type="timing" name="New Timing">
@@ -75,54 +71,36 @@
       <EffectLayer/>
     </Element>
     <Element type="model" name="GRP Channel 6">
-      <EffectLayer>
-        <Effect ref="0" name="On" startTime="4800" endTime="5800" palette="0"/>
-      </EffectLayer>
+      <EffectLayer/>
     </Element>
     <Element type="model" name="GRP Channel 5">
-      <EffectLayer>
-        <Effect ref="0" name="On" startTime="5760" endTime="6760" palette="0"/>
-      </EffectLayer>
+      <EffectLayer/>
     </Element>
     <Element type="model" name="GRP Channel 4">
-      <EffectLayer>
-        <Effect ref="0" name="On" startTime="8400" endTime="9400" palette="0"/>
-      </EffectLayer>
+      <EffectLayer/>
     </Element>
     <Element type="model" name="GRP Signatures">
-      <EffectLayer>
-        <Effect ref="0" name="On" startTime="11040" endTime="12040" palette="0"/>
-      </EffectLayer>
+      <EffectLayer/>
     </Element>
     <Element type="model" name="GRP Inner Main Beams">
-      <EffectLayer>
-        <Effect ref="0" name="On" startTime="4680" endTime="5680" palette="1"/>
-      </EffectLayer>
+      <EffectLayer/>
     </Element>
     <Element type="model" name="GRP Outer Main Beams">
-      <EffectLayer>
-        <Effect ref="0" name="On" startTime="7680" endTime="8680" palette="1"/>
-      </EffectLayer>
+      <EffectLayer/>
     </Element>
     <Element type="model" name="GRP Turns (Front)">
       <EffectLayer>
-        <Effect ref="0" name="On" startTime="7320" endTime="8320" palette="1"/>
+        <Effect ref="0" name="On" selected="1" startTime="9120" endTime="10120" palette="0"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="GRP Side Markers">
-      <EffectLayer>
-        <Effect ref="0" name="On" startTime="2640" endTime="3640" palette="1"/>
-      </EffectLayer>
+      <EffectLayer/>
     </Element>
     <Element type="model" name="GRP Aux Park">
-      <EffectLayer>
-        <Effect ref="0" name="On" startTime="6120" endTime="7120" palette="1"/>
-      </EffectLayer>
+      <EffectLayer/>
     </Element>
     <Element type="model" name="GRP Fogs (Front)">
-      <EffectLayer>
-        <Effect ref="0" name="On" startTime="15240" endTime="16240" palette="1"/>
-      </EffectLayer>
+      <EffectLayer/>
     </Element>
     <Element type="model" name="Rear Light Bar">
       <EffectLayer/>
@@ -131,14 +109,10 @@
       <EffectLayer/>
     </Element>
     <Element type="model" name="GRP Tail Lights">
-      <EffectLayer>
-        <Effect ref="0" name="On" startTime="13320" endTime="14320" palette="1"/>
-      </EffectLayer>
+      <EffectLayer/>
     </Element>
     <Element type="model" name="GRP Turns (Rear)">
-      <EffectLayer>
-        <Effect ref="0" name="On" startTime="14520" endTime="15520" palette="1"/>
-      </EffectLayer>
+      <EffectLayer/>
     </Element>
     <Element type="model" name="Reverse Lights">
       <EffectLayer/>
@@ -150,9 +124,7 @@
       <EffectLayer/>
     </Element>
     <Element type="model" name="GRP Side Repeaters">
-      <EffectLayer>
-        <Effect ref="0" name="On" startTime="21840" endTime="22840" palette="1"/>
-      </EffectLayer>
+      <EffectLayer/>
     </Element>
     <Element type="model" name="GRP Doors (Front)">
       <EffectLayer/>
@@ -164,46 +136,27 @@
       <EffectLayer/>
     </Element>
     <Element type="model" name="GRP Mirrors">
-      <EffectLayer>
-        <Effect ref="0" name="On" startTime="23640" endTime="24640" palette="1"/>
-      </EffectLayer>
+      <EffectLayer/>
     </Element>
     <Element type="model" name="GRP Windows (Front)">
-      <EffectLayer>
-        <Effect ref="0" name="On" startTime="24480" endTime="25480" palette="1"/>
-      </EffectLayer>
+      <EffectLayer/>
     </Element>
     <Element type="model" name="GRP Windows (Rear)">
-      <EffectLayer>
-        <Effect ref="0" name="On" startTime="25800" endTime="26800" palette="1"/>
-      </EffectLayer>
+      <EffectLayer/>
     </Element>
     <Element type="model" name="GRP Door Handles (Front)">
-      <EffectLayer>
-        <Effect ref="1" name="On" startTime="27240" endTime="28240" palette="1"/>
-      </EffectLayer>
+      <EffectLayer/>
     </Element>
     <Element type="model" name="GRP Door Handles (Rear)">
-      <EffectLayer>
-        <Effect ref="1" name="On" startTime="29160" endTime="30160" palette="1"/>
-      </EffectLayer>
+      <EffectLayer/>
     </Element>
     <Element type="model" name="Charge Port">
-      <EffectLayer>
-        <Effect ref="1" name="On" startTime="30840" endTime="31840" palette="1"/>
-      </EffectLayer>
+      <EffectLayer/>
     </Element>
     <Element type="model" name="LR Front Light Bar">
-      <EffectLayer>
-        <Effect ref="1" name="On" startTime="32880" endTime="33880" palette="1"/>
-      </EffectLayer>
+      <EffectLayer/>
     </Element>
     <Element type="model" name="LR Rear Light Bar">
-      <EffectLayer>
-        <Effect ref="1" name="On" selected="1" startTime="34560" endTime="35560" palette="1"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="GRP Tesla Model S">
       <EffectLayer/>
     </Element>
   </ElementEffects>
